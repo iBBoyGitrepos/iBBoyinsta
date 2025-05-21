@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iBBoyinsta
+- 👋 Hi, I’m @iBBoyGitrepos
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning GitHub and git, python, react.js
 - 💞️ I’m looking to collaborate on ...
